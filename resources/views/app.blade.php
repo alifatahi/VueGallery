@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/app.css" type="text/css">
 </head>
-<body class="font-sans" style="background:url('/images/bg.jpg')no-repeat fixed center">
+<body class="font-sans">
 <div id="app">
     <div class="container mx-auto">
         <header class="py-6 mb-8">
@@ -17,15 +17,17 @@
         <main class="flex">
             <aside class="w-1/5">
                 <section class="mb-8">
-                    <h5 class="uppercase font-bold mb-3">artistic style</h5>
+                    <h5 class="uppercase font-bold mb-3">Types of painting</h5>
                     <ul>
-                        <li class="text-sm pb-4"><router-link class="text-black" to="/">Artist</router-link></li>
-                    </ul>
-                </section>
-                <section>
-                    <h5 class="uppercase font-bold mb-3">artistic style2</h5>
-                    <ul>
-                        <li class="text-sm pb-4"><router-link class="text-black" to="/">Artist</router-link></li>
+                        <li class="text-sm pb-4"><router-link class="text-black" to="/" exact></router-link></li>
+                        <li class="text-sm pb-4"><router-link class="text-black" to="/allegory">Allegory</router-link></li>
+                        <li class="text-sm pb-4"><router-link class="text-black" to="/bodegón">Bodegón</router-link></li>
+                        <li class="text-sm pb-4"><router-link class="text-black" to="/figure-painting">Figure painting</router-link></li>
+                        <li class="text-sm pb-4"><router-link class="text-black" to="/illustration-painting">Illustration painting</router-link></li>
+                        <li class="text-sm pb-4"><router-link class="text-black" to="/landscape-painting">Landscape painting</router-link></li>
+                        <li class="text-sm pb-4"><router-link class="text-black" to="/portrait-painting">Portrait painting</router-link></li>
+                        <li class="text-sm pb-4"><router-link class="text-black" to="/still-life">Still life</router-link></li>
+                        <li class="text-sm pb-4"><router-link class="text-black" to="/veduta">Veduta</router-link></li>
                     </ul>
                 </section>
             </aside>

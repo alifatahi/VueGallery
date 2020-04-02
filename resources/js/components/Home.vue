@@ -1,5 +1,7 @@
 <template>
-    <h1 class="text-3xl leading-none font-normal">Full Artist Name</h1>
+    <div class="text-black">
+        Welcome to Vue Gallery Where You Can Learn About Different Types of Painting
+    </div>
 </template>
 
 <script>

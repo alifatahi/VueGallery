@@ -7,11 +7,16 @@ import LandscapePainting from "./components/LandscapePainting";
 import PortraitPainting from "./components/PortraitPainting";
 import StillLife from "./components/StillLife";
 import Veduta from "./components/Veduta";
+import NotFound from "./components/NotFound";
 
 export default {
     mode: 'history',
     linkActiveClass: 'font-bold',
     routes: [
+        {
+          path:'*',
+          component: NotFound,
+        },
         {
             path: '/',
             component: Home,

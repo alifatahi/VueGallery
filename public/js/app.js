@@ -106,6 +106,106 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -119,6 +219,107 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -156,19 +357,97 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-/* harmony default export */ __webpack_exports__["default"] = ({});
-
-/***/ }),
-
-/***/ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Home.vue?vue&type=script&lang=js&":
-/*!***************************************************************************************************************************************************************!*\
-  !*** ./node_modules/babel-loader/lib??ref--4-0!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Home.vue?vue&type=script&lang=js& ***!
-  \***************************************************************************************************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -200,6 +479,106 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -213,6 +592,117 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -266,6 +756,101 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -292,6 +877,106 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({});
 
 /***/ }),
@@ -305,6 +990,102 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -804,13 +1585,334 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
-    _vm._v(
-      "\n    Allegory is a figurative mode of representation conveying meaning\n    other than the literal. Allegory communicates its message by means of symbolic figures, actions or symbolic\n    representation. Allegory is generally treated as a figure of rhetoric, but an allegory does not have to be\n    expressed in language: it may be addressed to the eye, and is often found in realistic painting. An example of a\n    simple visual allegory is the image of the grim reaper. Viewers understand that the image of the grim reaper is\n    a symbolic representation of death.\n"
-    )
-  ])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "text-blue-700 font-bold" }, [
+        _vm._v(
+          "\n        Allegory is a figurative mode of representation conveying meaning\n        other than the literal. Allegory communicates its message by means of symbolic figures, actions or symbolic\n        representation. Allegory is generally treated as a figure of rhetoric, but an allegory does not have to be\n        expressed in language: it may be addressed to the eye, and is often found in realistic painting. An example of a\n        simple visual allegory is the image of the grim reaper. Viewers understand that the image of the grim reaper is\n        a symbolic representation of death.\n    "
+        )
+      ]),
+      _vm._v(" "),
+      _c("hr", { staticClass: "border-b border-gray-400 mt-4" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "pinterest" }, [
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Allegory of Poverty.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v(" Allegory of Poverty")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "\n                        Allegory of Poverty, about 1630s. Adriaen van de Venne (Dutch,\n                        1589–1662)\n                    "
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Allegory")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Adriaen_van_de_Venne")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src:
+                    "/images/painting/Allegory of the Birth of Frederik Hendrik.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v('Allegory of the Birth of Frederik Hendrik"')
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    'Allegory of the Birth of Frederik Hendrik" (c. 1650) is a\n                        painting by Dutch artist Caesar van Everdingen'
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Allegory")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Caesar_van_Everdingen")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Allegory of War.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Allegory of War")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Allegory of War (c. 1640s) is a painting by Flemish artist\n                        Jan Brueghel the Younger"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Allegory")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Jan_Brueghel_the_Younger")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src:
+                    "/images/painting/An Allegory of the Old and New Testaments.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("An Allegory of the Old and New Testaments")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "An Allegory of the Old and New Testaments (c. 1530-1535) is a\n                        painting by the German artist and printmaker Hans Holbein the Younger"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Allegory")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Hans_Holbein_the_Younger")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Portrait of Dante.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Portrait of Dante")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Portrait of Dante (c. 1530) is a painting by the Italian\n                        artist Agnolo di Cosimo. The painting depicts Dante holding a copy of The Divine Comedy,\n                        which is open at the beginning of Canto XXV of the Paradise"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Allegory")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Agnolo_di_Cosimo")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/The Allegory of Faith.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("The Allegory of Faith")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "The Allegory of Faith, also known as Allegory of the Catholic\n                        Faith, is a painting created by Dutch artist Johannes Vermeer in about 1670–72"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Allegory")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Johannes_Vermeer")]
+                )
+              ])
+            ]
+          )
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -832,13 +1934,332 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
-    _vm._v(
-      "\n    In Spanish art, a bodegón is a still life painting depicting pantry items, such as victuals, game, and drink,\n    often arranged on a simple stone slab, and also a painting with one or more figures, but significant still life\n    elements, typically set in a kitchen or tavern. Starting in the Baroque period, such paintings became popular in\n    Spain in the second quarter of the 17th century. The tradition of still life painting appears to have started\n    and was far more popular in the contemporary Low Countries, today Belgium and Netherlands (then Flemish and\n    Dutch artists), than it ever was in southern Europe. Northern still lifes had many subgenres: the breakfast\n    piece was augmented by the trompe-l'œil, the flower bouquet, and the vanitas. In Spain there were much fewer\n    patrons for this sort of thing, but a type of breakfast piece did become popular, featuring a few objects of\n    food and tableware laid on a table.\n"
-    )
-  ])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "text-blue-700 font-bold" }, [
+        _vm._v(
+          "\n        In Spanish art, a Bodegón is a still life painting depicting pantry items, such as victuals, game, and\n        drink,\n        often arranged on a simple stone slab, and also a painting with one or more figures, but significant still\n        life\n        elements, typically set in a kitchen or tavern. Starting in the Baroque period, such paintings became\n        popular in\n        Spain in the second quarter of the 17th century. The tradition of still life painting appears to have\n        started\n        and was far more popular in the contemporary Low Countries, today Belgium and Netherlands (then Flemish and\n        Dutch artists), than it ever was in southern Europe. Northern still lifes had many subgenres: the breakfast\n        piece was augmented by the trompe-l'œil, the flower bouquet, and the vanitas. In Spain there were much fewer\n        patrons for this sort of thing, but a type of breakfast piece did become popular, featuring a few objects of\n        food and tableware laid on a table.\n    "
+        )
+      ]),
+      _vm._v(" "),
+      _c("hr", { staticClass: "border-b border-gray-400 mt-4" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "pinterest" }, [
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Bodegon.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Bodegon")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Bodegon is a painting by Valia Valladares which was uploaded\n                        on July 17th, 2017."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Bodegón")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Valia_Valladares")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/An avocado sliced.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("An avocado sliced")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Dominican artist Olga Sofia Castellanos gives us a taste of\n                        the Caribbean in this mouthwatering original acrylic painting. An avocado sliced in half\n                        with a painted red background sits firm with great flavor. The taste of an avocado is quite\n                        unique. Depending on the type and ripeness of your avocado, you can normally expect a rich\n                        and mellow flavor with a thick, buttery texture"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Bodegón")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Olga_Sofia_Castellanos")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Still Life With Old Shoe.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Still Life With Old Shoe")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Joan Miro - Bodegón Del Zapato Viejo (Still Life With Old\n                        Shoe) - Art Prints"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Bodegón")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Jan_Brueghel_the_Younger")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Still Life with Pots.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Still Life with Pots")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Bodegón or Still Life with Pottery Jars, by Francisco de\n                        Zurbarán. 1636, Oil on canvas; 46 x 84 cm; Museo del Prado, Madrid"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Bodegón")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Francisco_de_Zurbarán")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Old Woman Frying Eggs.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Old Woman Frying Eggs")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Old Woman Frying Eggs, by Diego Velázquez, 1618 (National\n                        Gallery of Scotland)"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Bodegón")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Diego_Velázquez")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Classic trompe.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Classic trompe-l'œil")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Classic trompe-l'œil wall painting in Pompeii (Naples\n                        National Archaeological Museum)"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Bodegón")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Classic_trompe-l'œil")]
+                )
+              ])
+            ]
+          )
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -860,41 +2281,332 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
-    _vm._v(
-      "\n    A figure painting is a work of art in any of the painting media with the primary subject being the human figure,\n    whether clothed or nude. Figure painting may also refer to the activity of creating such a work. The human\n    figure has been one of the contrast subjects of art since the first stone age cave paintings, and has been\n    reinterpreted in various styles throughout history. Some artists well known for figure painting are Peter\n    Paul Rubens, Edgar Degas, and Édouard Manet.\n"
-    )
-  ])
+  return _vm._m(0)
 }
-var staticRenderFns = []
-render._withStripped = true
-
-
-
-/***/ }),
-
-/***/ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Home.vue?vue&type=template&id=f2b6376c&":
-/*!*******************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./resources/js/components/Home.vue?vue&type=template&id=f2b6376c& ***!
-  \*******************************************************************************************************************************************************************************************************/
-/*! exports provided: render, staticRenderFns */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "render", function() { return render; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return staticRenderFns; });
-var render = function() {
-  var _vm = this
-  var _h = _vm.$createElement
-  var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "text-black" }, [
-    _vm._v(
-      "\n    Welcome to Vue Gallery Where You Can Learn About Different Types of Painting\n"
-    )
-  ])
-}
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "text-blue-700 font-bold" }, [
+        _vm._v(
+          "\n        A figure painting is a work of art in any of the painting media with the primary subject being the human\n        figure,\n        whether clothed or nude. Figure painting may also refer to the activity of creating such a work. The human\n        figure has been one of the contrast subjects of art since the first stone age cave paintings, and has been\n        reinterpreted in various styles throughout history. Some artists well known for figure painting are Peter\n        Paul Rubens, Edgar Degas, and Édouard Manet.\n    "
+        )
+      ]),
+      _vm._v(" "),
+      _c("hr", { staticClass: "border-b border-gray-400 mt-4" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "pinterest" }, [
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Pensive Figure.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Pensive Figure")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Pensive Figure is a painting by Helena Wierzbicki which was\n                        uploaded on July 12th, 2013."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Figure_Painting")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Helena_Wierzbicki")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Serenity.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Serenity")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Serenity is a painting by Helena Wierzbicki which was\n                        uploaded on March 28th, 2011."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Figure_Painting")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Helena_Wierzbicki")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Open Hands.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Open Hands")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Throughout his life, Paul Cézanne nurtured an ambition to\n                        paint figure compositions in the renaissance tradition"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Figure_Painting")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Paul_Cézanne")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Card Players.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Card Players")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Card Players, c. 1893-96, oil on canvas, 47 x 56 cm. Musée\n                        d’Orsay, Paris"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Figure_Painting")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Musée_d’Orsay")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Figure Composition.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Figure Composition")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Raymond Redell, Figure Composition, ca. 1930-1939,\n                        watercolor, india ink, gouache and pencil on paper, Smithsonian American Art Museum, Bequest\n                        of Olin Dows, 1983.90.154 "
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Figure_Painting")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Raymond_Redell")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Man with a Pipe.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Man with a Pipe")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Man with a Pipe (Paulin Paulet), c. 1893-96, oil on canvas,\n                        73 x 60 cm. The Courtauld Gallery, London"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Figure_Painting")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Paulin_Paulet")]
+                )
+              ])
+            ]
+          )
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -916,13 +2628,332 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
-    _vm._v(
-      "\n    Illustration paintings are those used as illustrations in books, magazines, and theater or movie posters and\n    comic books. Today, there is a growing interest in collecting and admiring the original artwork. Various museum\n    exhibitions, magazines and art galleries have devoted space to the illustrators of the past. In the visual art\n    world, illustrators have sometimes been considered less important in comparison with fine artists and graphic\n    designers. But as the result of computer game and comic industry growth, illustrations are becoming valued as\n    popular and profitable art works that can acquire a wider market than the other two, especially in Korea, Japan,\n    Hong Kong and United States.\n"
-    )
-  ])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "text-blue-700 font-bold" }, [
+        _vm._v(
+          "\n        Illustration paintings are those used as illustrations in books, magazines, and theater or movie posters and\n        comic books. Today, there is a growing interest in collecting and admiring the original artwork. Various\n        museum\n        exhibitions, magazines and art galleries have devoted space to the illustrators of the past. In the visual\n        art\n        world, illustrators have sometimes been considered less important in comparison with fine artists and\n        graphic\n        designers. But as the result of computer game and comic industry growth, illustrations are becoming valued\n        as\n        popular and profitable art works that can acquire a wider market than the other two, especially in Korea,\n        Japan,\n        Hong Kong and United States.\n    "
+        )
+      ]),
+      _vm._v(" "),
+      _c("hr", { staticClass: "border-b border-gray-400 mt-4" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "pinterest" }, [
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Psychedelic.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Psychedelic")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Mad Masters Psychedelic Head Color Illustration on Abstract\n                        Background 1 Piece Wooden Framed Painting"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Illustration")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Mad_Masters")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/In Distress.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("In Distress")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "\n                        In Distress By Gujjarappa B G , Bangalore Created in 2016\n                    "
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Illustration")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Gujjarappa_B_G")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Misunderstanding.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Misunderstanding")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Misunderstanding\n                        By Gujjarappa B G , Bangalore Created in 2016 "
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Illustration")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Gujjarappa_B_G")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Evolution.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Evolution")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Evolution\n                        By Kavya Vyas , Mumbai Created in 2018 "
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Illustration")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Kavya_Vyas")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Still Life 9.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Still Life 9")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Still Life 9\n                        By Zargar Zahoor , New delhi Created in 2016 "
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Illustration")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Zargar_Zahoor")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Lonely In San Fransisco.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Lonely In San Fransisco")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Lonely In San Fransisco\n                        By Anup Menon , Mumbai Created in 2019 "
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Illustration")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Anup_Menon")]
+                )
+              ])
+            ]
+          )
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -944,13 +2975,332 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
-    _vm._v(
-      "\n    Landscape painting is a term that covers the depiction of natural scenery such as mountains, valleys, trees,\n    rivers, and forests, and especially art where the main subject is a wide view, with its elements arranged into a\n    coherent composition. In other works landscape backgrounds for figures can still form an important part of the\n    work. Sky is almost always included in the view, and weather is often an element of the composition. Detailed\n    landscapes as a distinct subject are not found in all artistic traditions, and develop when there is already a\n    sophisticated tradition of representing other subjects. The two main traditions spring from Western painting and\n    Chinese art, going back well over a thousand years in both cases.\n"
-    )
-  ])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "text-blue-700 font-bold" }, [
+        _vm._v(
+          "\n        Landscape painting is a term that covers the depiction of natural scenery such as mountains, valleys, trees,\n        rivers, and forests, and especially art where the main subject is a wide view, with its elements arranged\n        into a\n        coherent composition. In other works landscape backgrounds for figures can still form an important part of\n        the\n        work. Sky is almost always included in the view, and weather is often an element of the composition.\n        Detailed\n        landscapes as a distinct subject are not found in all artistic traditions, and develop when there is already\n        a\n        sophisticated tradition of representing other subjects. The two main traditions spring from Western painting\n        and\n        Chinese art, going back well over a thousand years in both cases.\n    "
+        )
+      ]),
+      _vm._v(" "),
+      _c("hr", { staticClass: "border-b border-gray-400 mt-4" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "pinterest" }, [
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/The Green Forest River Scenery.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("The Green Forest River Scenery")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "The Green Forest River Scenery. is a painting by Mohmmad\n                        Arman Khan which was uploaded on August 19th, 2019."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Landscape")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Mohmmad_Arman_Khan")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Follow Through.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Follow Through")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "\n                        Follow Through – Impressionist Landscape Painting uses loose, impressionist brush strokes\n                        and soft blue and green colors to form a winding river that passes through a hallway of\n                        trees. This original painting on 12 x 12 inch gallery wrapped canvas, would look beautiful\n                        as part of a gallery wall or as featured art.\n                    "
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Landscape")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Acrylic")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Tarpon Springs Fleet.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Tarpon Springs Fleet")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Tarpon Springs Fleet – Nautical Painting blends cool colors\n                        to create this nautical oil landscape painting. This oil landscape painting features a\n                        boating scene from the Sponge Docks of Tarpon Springs, Florida. Loose strokes of blues,\n                        purples and greens work together in this contemporary landscape painting."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Landscape")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Gallery_Wrapped")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Inner Circle.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Inner Circle")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Inner Circle – Abstract Floral Painting blends loose,\n                        impressionist strokes of pink and red to form a zoomed-in view of a rose. Painted on 12 x 12\n                        inch gallery wrapped canvas, this original oil painting makes a beautiful addition to a\n                        gallery wall or as featured art in a small space."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Landscape")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Gallery_Wrapped")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/On the Road.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("On the Road")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "On the Road – Landscape Painting features an empty highway,\n                        brought to life with loose, impressionist brush strokes. This contemporary oil painting\n                        contrasts cool blue and grey colors against warm-colored fields."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Landscape")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Gallery_Wrapped")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Just After Sunrise.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Just After Sunrise")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Just After Sunrise – Impressionist Landscape Painting uses\n                        loose, impressionist brush strokes and soft colors to create a quiet country landscape\n                        scene. This original painting on 12 x 12 inch gallery wrapped canvas, would look beautiful\n                        as part of a gallery wall or as featured art."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Landscape")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Gallery_Wrapped")]
+                )
+              ])
+            ]
+          )
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -996,13 +3346,328 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
-    _vm._v(
-      "\n    Portrait paintings are representations of a person, in which the face and its expression is predominant. The\n    intent is to display the likeness, personality, and even the mood of the person. The art of the portrait\n    flourished in Ancient Greek and especially Roman sculpture, where sitters demanded individualized and realistic\n    portraits, even unflattering ones. One of the best-known portraits in the Western world is Leonardo da Vinci's\n    painting titled Mona Lisa, which is thought to be a portrait of Lisa Gherardini, the wife of Francesco del\n    Giocondo\n"
-    )
-  ])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "text-blue-700 font-bold" }, [
+        _vm._v(
+          "\n        Portrait paintings are representations of a person, in which the face and its expression is predominant. The\n        intent is to display the likeness, personality, and even the mood of the person. The art of the portrait\n        flourished in Ancient Greek and especially Roman sculpture, where sitters demanded individualized and\n        realistic\n        portraits, even unflattering ones. One of the best-known portraits in the Western world is Leonardo da\n        Vinci's\n        painting titled Mona Lisa, which is thought to be a portrait of Lisa Gherardini, the wife of Francesco del\n        Giocondo\n    "
+        )
+      ]),
+      _vm._v(" "),
+      _c("hr", { staticClass: "border-b border-gray-400 mt-4" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "pinterest" }, [
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Caribbean Blue.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Caribbean Blue")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    '"Caribbean Blue" - John Larriva, oil on hardboard, 2015\n                        {contemporary expressionist art female eyes impasto woman face portrait painting '
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Portrait")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#John_Larriva")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Mona Lisa.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Mona Lisa")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v('Leonardo Da Vinci "Mona Lisa"')
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Portrait")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Leonardo_Da_Vinci")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Saint Pope John Paul II.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Saint Pope John Paul II")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v("Saint Pope John Paul II portrait painting")
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Portrait")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#D_G_Phelps")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Mr and Mrs Andrews.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Mr and Mrs Andrews")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Thomas Gainsborough, Mr and Mrs Andrews on their estate, c.\n                        1750."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Portrait")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Thomas_Gainsborough")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Richard II of England.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Richard II of England")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "The small private Wilton Diptych for Richard II of England,\n                        c. 1400, with stamped gold backgrounds and much ultramarine."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Portrait")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Wilton_Diptych")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Portrait of a Young Woman.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Portrait of a Young Woman")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Robert Campin (c. 1375 – 1444), Portrait of a Young Woman\n                        (paired with her husband), 1430–1435. Van der Weyden's style was founded on Campin's. "
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Portrait")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Robert_Campin")]
+                )
+              ])
+            ]
+          )
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -1024,13 +3689,333 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
-    _vm._v(
-      "\n    A still life is a work of art depicting mostly inanimate subject matter, typically commonplace objects—which may\n    be either natural (food, flowers, plants, rocks, or shells) or man-made (drinking glasses, books, vases,\n    jewelry, coins, pipes, and so on). With origins in the Middle Ages and Ancient Greek/Roman art, still life\n    paintings give the artist more leeway in the arrangement of design elements within a composition than do\n    paintings of other types of subjects such as landscape or portraiture. Still life paintings, particularly before\n    1700, often contained religious and allegorical symbolism relating to the objects depicted. Some modern still\n    life breaks the two-dimensional barrier and employs three-dimensional mixed media, and uses found objects,\n    photography, computer graphics, as well as video and sound.\n"
-    )
-  ])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "text-blue-700 font-bold" }, [
+        _vm._v(
+          "\n        A still life is a work of art depicting mostly inanimate subject matter, typically commonplace objects—which\n        may\n        be either natural (food, flowers, plants, rocks, or shells) or man-made (drinking glasses, books, vases,\n        jewelry, coins, pipes, and so on). With origins in the Middle Ages and Ancient Greek/Roman art, still life\n        paintings give the artist more leeway in the arrangement of design elements within a composition than do\n        paintings of other types of subjects such as landscape or portraiture. Still life paintings, particularly\n        before\n        1700, often contained religious and allegorical symbolism relating to the objects depicted. Some modern\n        still\n        life breaks the two-dimensional barrier and employs three-dimensional mixed media, and uses found objects,\n        photography, computer graphics, as well as video and sound.\n    "
+        )
+      ]),
+      _vm._v(" "),
+      _c("hr", { staticClass: "border-b border-gray-400 mt-4" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "pinterest" }, [
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Bouquet.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Bouquet")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Jan Brueghel the Elder (1568–1625), Bouquet (1599). Some of\n                        the earliest examples of still life were paintings of flowers by Netherlandish Renaissance\n                        painters. Still-life painting (including vanitas), as a particular genre, achieved its\n                        greatest importance in the Golden Age of Netherlandish art (ca. 1500s–1600s)."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Still_Life")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Jan_Brueghel_the_Elder")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Still Life with Game Fowl.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Still Life with Game Fowl")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Juan Sánchez Cotán, Still Life with Game Fowl, Vegetables and\n                        Fruits (1602), Museo del Prado Madrid"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Still_Life")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Juan_Sánchez_Cotán")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/2nd-century mosaic.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("2nd-century mosaic")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Still life on a 2nd-century mosaic, with fish, poultry, dates\n                        and vegetables from the Vatican museum"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Still_Life")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Vatican_museum")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Vase of Flowers.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Vase of Flowers")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Hans Memling (1430–1494), Vase of Flowers (1480), Museo\n                        Thyssen-Bornemisza, Madrid. According to some scholars the Vase of Flowers is filled with\n                        religious symbolism."
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Still_Life")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Hans_Memling")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src:
+                    "/images/painting/Still-Life with Partridge and Gauntlets.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Still-Life with Partridge and Gauntlets")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Jacopo de' Barbari, Still-Life with Partridge and Gauntlets\n                        (1504), a very early independent still life, perhaps the back or cover for a portrait "
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Still_Life")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Jacopo_de_Barbari")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Still_Life of a Young Woman.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Still_Life of a Young Woman")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "Willem Kalf (1619–1693), oil on canvas, The J. Paul Getty Museum"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Still_Life")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Willem_Kalf")]
+                )
+              ])
+            ]
+          )
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -1052,13 +4037,330 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", [
-    _vm._v(
-      "\n    Illustration paintings are those used as illustrations in books, magazines, and theater or movie posters and\n    comic books. Today, there is a growing interest in collecting and admiring the original artwork. Various museum\n    exhibitions, magazines and art galleries have devoted space to the illustrators of the past. In the visual art\n    world, illustrators have sometimes been considered less important in comparison with fine artists and graphic\n    designers. But as the result of computer game and comic industry growth, illustrations are becoming valued as\n    popular and profitable art works that can acquire a wider market than the other two, especially in Korea, Japan,\n    Hong Kong and United States.\n"
-    )
-  ])
+  return _vm._m(0)
 }
-var staticRenderFns = []
+var staticRenderFns = [
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", [
+      _c("div", { staticClass: "text-blue-700 font-bold" }, [
+        _vm._v(
+          "\n        A Veduta is a highly detailed, usually large-scale painting of a cityscape or some other vista. This genre\n        of\n        landscape originated in Flanders, where artists such as Paul Bril painted vedute as early as the 16th\n        century.\n        As the itinerary of the Grand Tour became somewhat standardized, vedute of familiar scenes like the Roman\n        Forum\n        or the Grand Canal recalled early ventures to the Continent for aristocratic Englishmen. In the later 19th\n        century, more personal impressions of cityscapes replaced the desire for topographical accuracy, which was\n        satisfied instead by painted panoramas.\n    "
+        )
+      ]),
+      _vm._v(" "),
+      _c("hr", { staticClass: "border-b border-gray-400 mt-4" }),
+      _vm._v(" "),
+      _c("div", { staticClass: "pinterest" }, [
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/A View of the Tiber.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("A View of the Tiber")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "A View of the Tiber by Hendrik Frans van Lint, first half of\n                        18th century"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Veduta")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Hendrik_Frans_van_Lint")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/The River Thame.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("The River Thame")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "The River Thames from Richmond House: a classic veduta by\n                        Canaletto, 1747"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Veduta")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Richmond_Hous")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/The Quattro Fontane.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("The Quattro Fontane")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "The Quattro Fontane Looking Toward Santa Maria Maggiore by\n                        Lieven Cruyl"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Veduta")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Lieven_Cruyl")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/Venetian veduta.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("Venetian veduta")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v("Venetian veduta by Antonio Reyna Manescau")
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Veduta")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Antonio_Reyna_Manescau")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/The Grand Tour.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("The Grand Tour")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "The Grand Tour: Landscape & Veduta Paintings Venice & Rome in\n                        the 18th Century"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Veduta")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#The_Grand_Tour")]
+                )
+              ])
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "box" }, [
+          _c(
+            "div",
+            {
+              staticClass:
+                "max-w-sm rounded overflow-hidden shadow-lg mt-4 pinterest-box"
+            },
+            [
+              _c("img", {
+                staticClass: "w-full",
+                attrs: {
+                  src: "/images/painting/View of the Basilica.jpg",
+                  alt: "Sunset in the mountains"
+                }
+              }),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c("div", { staticClass: "font-bold text-xl mb-2" }, [
+                  _vm._v("View of the Basilica")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "text-gray-700 text-base" }, [
+                  _vm._v(
+                    "View of the Basilica of Maxentius in the Roman Forum\n                        Antonio Zucchi, 1726-1795"
+                  )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "px-6 py-4" }, [
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Veduta")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "span",
+                  {
+                    staticClass:
+                      "inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+                  },
+                  [_vm._v("#Antonio_Zucchi")]
+                )
+              ])
+            ]
+          )
+        ])
+      ])
+    ])
+  }
+]
 render._withStripped = true
 
 
@@ -16120,6 +19422,17 @@ module.exports = g;
 
 /***/ }),
 
+/***/ "./resources/css/app.css":
+/*!*******************************!*\
+  !*** ./resources/css/app.css ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+
 /***/ "./resources/js/app.js":
 /*!*****************************!*\
   !*** ./resources/js/app.js ***!
@@ -16346,75 +19659,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_FigurePainting_vue_vue_type_template_id_4f8b6cf3___WEBPACK_IMPORTED_MODULE_0__["render"]; });
 
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_FigurePainting_vue_vue_type_template_id_4f8b6cf3___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
-
-
-
-/***/ }),
-
-/***/ "./resources/js/components/Home.vue":
-/*!******************************************!*\
-  !*** ./resources/js/components/Home.vue ***!
-  \******************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _Home_vue_vue_type_template_id_f2b6376c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Home.vue?vue&type=template&id=f2b6376c& */ "./resources/js/components/Home.vue?vue&type=template&id=f2b6376c&");
-/* harmony import */ var _Home_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Home.vue?vue&type=script&lang=js& */ "./resources/js/components/Home.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ "./node_modules/vue-loader/lib/runtime/componentNormalizer.js");
-
-
-
-
-
-/* normalize component */
-
-var component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__["default"])(
-  _Home_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__["default"],
-  _Home_vue_vue_type_template_id_f2b6376c___WEBPACK_IMPORTED_MODULE_0__["render"],
-  _Home_vue_vue_type_template_id_f2b6376c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"],
-  false,
-  null,
-  null,
-  null
-  
-)
-
-/* hot reload */
-if (false) { var api; }
-component.options.__file = "resources/js/components/Home.vue"
-/* harmony default export */ __webpack_exports__["default"] = (component.exports);
-
-/***/ }),
-
-/***/ "./resources/js/components/Home.vue?vue&type=script&lang=js&":
-/*!*******************************************************************!*\
-  !*** ./resources/js/components/Home.vue?vue&type=script&lang=js& ***!
-  \*******************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Home_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib??ref--4-0!../../../node_modules/vue-loader/lib??vue-loader-options!./Home.vue?vue&type=script&lang=js& */ "./node_modules/babel-loader/lib/index.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Home.vue?vue&type=script&lang=js&");
-/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__["default"] = (_node_modules_babel_loader_lib_index_js_ref_4_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Home_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__["default"]); 
-
-/***/ }),
-
-/***/ "./resources/js/components/Home.vue?vue&type=template&id=f2b6376c&":
-/*!*************************************************************************!*\
-  !*** ./resources/js/components/Home.vue?vue&type=template&id=f2b6376c& ***!
-  \*************************************************************************/
-/*! exports provided: render, staticRenderFns */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Home_vue_vue_type_template_id_f2b6376c___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../../node_modules/vue-loader/lib??vue-loader-options!./Home.vue?vue&type=template&id=f2b6376c& */ "./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/vue-loader/lib/index.js?!./resources/js/components/Home.vue?vue&type=template&id=f2b6376c&");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "render", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Home_vue_vue_type_template_id_f2b6376c___WEBPACK_IMPORTED_MODULE_0__["render"]; });
-
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "staticRenderFns", function() { return _node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_vue_loader_lib_index_js_vue_loader_options_Home_vue_vue_type_template_id_f2b6376c___WEBPACK_IMPORTED_MODULE_0__["staticRenderFns"]; });
 
 
 
@@ -16843,17 +20087,15 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _components_Home__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/Home */ "./resources/js/components/Home.vue");
-/* harmony import */ var _components_Allegory__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/Allegory */ "./resources/js/components/Allegory.vue");
-/* harmony import */ var _components_Bodeg_n__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/Bodegón */ "./resources/js/components/Bodegón.vue");
-/* harmony import */ var _components_FigurePainting__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/FigurePainting */ "./resources/js/components/FigurePainting.vue");
-/* harmony import */ var _components_IllustrationPainting__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/IllustrationPainting */ "./resources/js/components/IllustrationPainting.vue");
-/* harmony import */ var _components_LandscapePainting__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./components/LandscapePainting */ "./resources/js/components/LandscapePainting.vue");
-/* harmony import */ var _components_PortraitPainting__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/PortraitPainting */ "./resources/js/components/PortraitPainting.vue");
-/* harmony import */ var _components_StillLife__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/StillLife */ "./resources/js/components/StillLife.vue");
-/* harmony import */ var _components_Veduta__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/Veduta */ "./resources/js/components/Veduta.vue");
-/* harmony import */ var _components_NotFound__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./components/NotFound */ "./resources/js/components/NotFound.vue");
-
+/* harmony import */ var _components_Allegory__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/Allegory */ "./resources/js/components/Allegory.vue");
+/* harmony import */ var _components_Bodeg_n__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/Bodegón */ "./resources/js/components/Bodegón.vue");
+/* harmony import */ var _components_FigurePainting__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/FigurePainting */ "./resources/js/components/FigurePainting.vue");
+/* harmony import */ var _components_IllustrationPainting__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/IllustrationPainting */ "./resources/js/components/IllustrationPainting.vue");
+/* harmony import */ var _components_LandscapePainting__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/LandscapePainting */ "./resources/js/components/LandscapePainting.vue");
+/* harmony import */ var _components_PortraitPainting__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./components/PortraitPainting */ "./resources/js/components/PortraitPainting.vue");
+/* harmony import */ var _components_StillLife__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/StillLife */ "./resources/js/components/StillLife.vue");
+/* harmony import */ var _components_Veduta__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/Veduta */ "./resources/js/components/Veduta.vue");
+/* harmony import */ var _components_NotFound__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/NotFound */ "./resources/js/components/NotFound.vue");
 
 
 
@@ -16868,68 +20110,53 @@ __webpack_require__.r(__webpack_exports__);
   linkActiveClass: 'font-bold',
   routes: [{
     path: '*',
-    component: _components_NotFound__WEBPACK_IMPORTED_MODULE_9__["default"]
+    component: _components_NotFound__WEBPACK_IMPORTED_MODULE_8__["default"]
   }, {
     path: '/',
-    component: _components_Home__WEBPACK_IMPORTED_MODULE_0__["default"],
-    name: 'home'
-  }, {
-    path: '/allegory',
-    component: _components_Allegory__WEBPACK_IMPORTED_MODULE_1__["default"],
+    component: _components_Allegory__WEBPACK_IMPORTED_MODULE_0__["default"],
     name: 'allegory'
   }, {
     path: '/bodegón',
-    component: _components_Bodeg_n__WEBPACK_IMPORTED_MODULE_2__["default"],
+    component: _components_Bodeg_n__WEBPACK_IMPORTED_MODULE_1__["default"],
     name: 'bodegón'
   }, {
     path: '/figure-painting',
-    component: _components_FigurePainting__WEBPACK_IMPORTED_MODULE_3__["default"],
+    component: _components_FigurePainting__WEBPACK_IMPORTED_MODULE_2__["default"],
     name: 'figurePainting'
   }, {
     path: '/illustration-painting',
-    component: _components_IllustrationPainting__WEBPACK_IMPORTED_MODULE_4__["default"],
+    component: _components_IllustrationPainting__WEBPACK_IMPORTED_MODULE_3__["default"],
     name: 'illustrationPainting'
   }, {
     path: '/landscape-painting',
-    component: _components_LandscapePainting__WEBPACK_IMPORTED_MODULE_5__["default"],
+    component: _components_LandscapePainting__WEBPACK_IMPORTED_MODULE_4__["default"],
     name: 'landscapePainting'
   }, {
     path: '/portrait-painting',
-    component: _components_PortraitPainting__WEBPACK_IMPORTED_MODULE_6__["default"],
+    component: _components_PortraitPainting__WEBPACK_IMPORTED_MODULE_5__["default"],
     name: 'portraitPainting'
   }, {
     path: '/still-life',
-    component: _components_StillLife__WEBPACK_IMPORTED_MODULE_7__["default"],
+    component: _components_StillLife__WEBPACK_IMPORTED_MODULE_6__["default"],
     name: 'stillLife'
   }, {
     path: '/veduta',
-    component: _components_Veduta__WEBPACK_IMPORTED_MODULE_8__["default"],
+    component: _components_Veduta__WEBPACK_IMPORTED_MODULE_7__["default"],
     name: 'veduta'
   }]
 });
 
 /***/ }),
 
-/***/ "./resources/sass/app.scss":
-/*!*********************************!*\
-  !*** ./resources/sass/app.scss ***!
-  \*********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-// removed by extract-text-webpack-plugin
-
-/***/ }),
-
 /***/ 0:
-/*!*************************************************************!*\
-  !*** multi ./resources/js/app.js ./resources/sass/app.scss ***!
-  \*************************************************************/
+/*!***********************************************************!*\
+  !*** multi ./resources/js/app.js ./resources/css/app.css ***!
+  \***********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! C:\xampp\htdocs\VueGallery\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\VueGallery\resources\sass\app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! C:\xampp\htdocs\VueGallery\resources\css\app.css */"./resources/css/app.css");
 
 
 /***/ })

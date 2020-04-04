@@ -1,4 +1,3 @@
-import Home from "./components/Home";
 import Allegory from "./components/Allegory";
 import Bodegón from "./components/Bodegón";
 import FigurePainting from "./components/FigurePainting";
@@ -11,18 +10,13 @@ import NotFound from "./components/NotFound";
 
 export default {
     mode: 'history',
-    linkActiveClass: 'font-bold',
+        linkActiveClass: 'font-bold',
     routes: [
         {
           path:'*',
           component: NotFound,
-        },
-        {
-            path: '/',
-            component: Home,
-            name: 'home'
         }, {
-            path: '/allegory',
+            path: '/',
             component: Allegory,
             name: 'allegory'
         }, {

@@ -7,6 +7,7 @@ Vue Gallery SPA(Single Page Application) Where You Can Learn About Different Typ
 
 Check it Online
 URL: https://vuegallery.herokuapp.com/
+<hr>
 
 ## Screenshots <small></small>
 
